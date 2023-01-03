@@ -1,6 +1,6 @@
-# Impact of consumers diets on C02 emission and deforestation
+# Impact of consumers' diet choices on C02 emission and deforestation
 
-## WHAT IS IT?
+## ❓WHAT IS IT?
 
 This model attempts to demonstrate the impact of the food diet choices on carbon dioxide emissions (CO2) and deforestation.
 
@@ -8,15 +8,15 @@ The model focuses on the two scenarios: a world with people having a standard om
 
 ![Alt text](/model_overview.png)
 
-## HOW IT WORKS
+## ⚙️ HOW IT WORKS
 
 - The model creates an initial land structure composed of forest, farming crop land, and farming livestock (for omnivore diet only).
 
-- Crops and livestock produce food and emit carbon dioxide (CO2s) onto the atmosphere.
+- Crops 🌾 and livestock 🐑 produce food and emit carbon dioxide (CO2s) onto the atmosphere.
 
 - The CO2s travels in either direction.
 
-- Forests capture the CO2s.
+- Forests capture the CO2s. 🌳
 
 - The human population is initialised at 7.5M individuals. The population grows according to time and they consume food.
 
@@ -26,12 +26,13 @@ The model focuses on the two scenarios: a world with people having a standard om
 
 ## HOW TO USE IT
 
-**Setting up initial map**  
+**Setting up initial map** :round_pushpin:  
 This model can be initialised by clicking one one of the two buttons:  
 - ‘setup-omnivore’: this will setup forest, livestock farmed land and crop land.  
 - ‘setup-plant-based’ : this will setup forest and crop land.
 
-**go**  
+**go** :checkered_flag: 
+
 starts and stops the simulation.
 
 **Hide CO2**  
@@ -44,7 +45,7 @@ Sets the growth rate of the word population.
 Selects by which source of food will be produced from the deforestation.  
 The forest can be replaced by crops only or by crops and livestock.
 
-## THINGS TO NOTICE
+## 🔍 THINGS TO NOTICE
 
 -   Both omnivore diet and plant based diet lead to deforestation. However the speed of the deforestation on an omnivore diet faster.
     
@@ -60,7 +61,7 @@ The forest can be replaced by crops only or by crops and livestock.
 3.  Selecting the forest will be replaced by crops or crops and livestock to sustain food availability
     
 
-## EXTENDING THE MODEL
+## 💭 EXTENDING THE MODEL
 
 These are some of the ways to extend this model further:
 
@@ -72,7 +73,7 @@ These are some of the ways to extend this model further:
 -   Set up and accurate food quantity consumed based on calories
 -   Add a slider allowing to select the average quantity of animal product consumed per week
 
-## CREDITS AND REFERENCES
+## 💬 CREDITS AND REFERENCES
 
 If you mention this model or the NetLogo software in a publication, we ask that you include the citations below.
 
